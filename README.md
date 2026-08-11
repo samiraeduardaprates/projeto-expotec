@@ -8,7 +8,7 @@
 
 Este repositório contém a implementação de algoritmos e estruturas condicionais/repetitivas desenvolvidos durante o módulo de **Fundamentos da Programação e Lógica Computacional** do Curso Técnico em Informática.
 
-O principal objetivo deste projeto foi validar, testar e aprimorar a capacidade de **raciocínio lógico**, estruturação de algoritmos e resolução de problemas estruturados através de pseudocódigo em **Portugol**.
+O principal objetivo deste projeto foi validar, testar e aprimorar a capacidade de **raciocínio lógico**, estruturação de algoritmos e resolução de problemas estruturados através de pseudocódigo em **Portugol**. O quiz do MI é um jogo interativo no terminal desenvolvido no Portugol Studio.
 
 ---
 
